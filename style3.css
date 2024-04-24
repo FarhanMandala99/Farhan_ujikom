@@ -1,0 +1,67 @@
+
+
+.section{
+    width:360px;
+    border:1px solid gray;
+    height:100vh;
+    display:block;
+    margin-left:1100px;
+    position:fixed;
+    overflow:scroll;
+   }
+   .content{
+    width:30vh;
+    margin-right:400px;
+    height:auto;
+    display:inline-block;
+   }
+   .navbar{
+    width:350px;
+    border:1px solid gray;
+    display:inline-block;
+    position:fixed;
+    font-size:50px;
+    height:100vh;
+   }
+   form{
+    display:inline;
+   }
+   button:active {
+    background-color:gray;
+   }
+   .closeComment{
+    background-color:red;
+    color:white;
+    float:right;
+    width:60px;
+    height:50px;
+    border:none;
+    font-size:35px;
+   }
+   .commentInput{
+    width:230px;
+    height:25px;
+    display:inline-block;
+   }
+   .commentButton{
+    height:30px;
+    width:70px;
+    display:inline-block;
+    background-color:green;
+    color:white;
+    border:none;
+   }
+   .navbar a{
+    color:black;
+    text-decoration:none;
+   }
+   .contentImage{
+    border:2px solid purple;
+    float:left;
+    height:50px;
+    width:50px;
+    border-radius:100%;
+   }
+   
+   
+   
